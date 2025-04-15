@@ -14,7 +14,7 @@ function MatIntro() {
         </div>
         <div className="attention-box mx-8 text-slate-800 text-center text-lg border-2 border-primary rounded-lg p-8">
               <h1 className="text-4xl font-semibold text-white mb-4">Atividades Extras</h1>
-                <p>
+                <p className="text-white">
                     Acesse as <a href="https://exerciciosextras9o.beieducacaopedagogico.com/" target="_blank" rel="noopener noreferrer" className="underline text-blue-200 hover:text-purple-400"> atividades extras</a>{' '}que vão além do conteúdo presente nos livros físicos. Aqui você poderá acessar e baixar PDFs com atividades para cada capítulo, dando um passo além no ensino de habilidades matemáticas.
                 </p>
                 
